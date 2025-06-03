@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1pg_ahzVkooheTqEthO22IWTJKCMvQ9rM?usp=dri
 | Dataset Name                    | Description                                               
 |---------------------------------|----------------------------------------------------------------|
 | `traffic_cone`                  | Indoor footage of drone circling around a traffic cone         |
-| `fearles_fligt_facility`        | Outdoor drone footage with manequins and fire pits             |
+| `fearless_flight_facility`      | Outdoor drone footage with manequins and fire pits             |
 | `gps`                           | Comparison between gps based outdoor localization and qvio     |
 | `april_tag`                     | Indoor drone footage of tracking camera and vehicle odometry   |
 |                                 | while tracking and following an april tag                      |
